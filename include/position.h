@@ -1,0 +1,1 @@
+void setPosition(int x, int y);
